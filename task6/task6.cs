@@ -1,9 +1,9 @@
 ﻿// Принимаем на вход число
 // Кратно ли это число одновременно 7 и 23
 
-int num = 46;
+// int num = 161;
 
-// int num = new Random().Next(100, 1000);
+int num = new Random().Next(100, 1000);
 
 Console.WriteLine("Является ли введеное число одновременно кратно 7 и 23?");
 Console.WriteLine("Сгенерированное число: " + num);
