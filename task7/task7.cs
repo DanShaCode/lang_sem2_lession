@@ -4,8 +4,8 @@
 // int num1 = 25;
 // int num2 = 5;
 
-// int num1 = new Random().Next(1, 101);
-// int num2 = new Random().Next(1, 101);
+int num1 = new Random().Next(1, 101);
+int num2 = new Random().Next(1, 101);
 
 Console.WriteLine("Является ли одно число квадратом другого?");
 Console.Write("Первое число: " + num1);
